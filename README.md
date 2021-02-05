@@ -3,7 +3,7 @@ Bot that creates videos automatically
 
 # Credential format
 
-##Algorithmia
+## Algorithmia
 
 File: `algorithmia.json`
 
