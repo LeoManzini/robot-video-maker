@@ -9,6 +9,6 @@ File: `algorithmia.json`
 
 ```
 {
-    "apiKey": "simZ7R9SYSZhDpByKuzeEjQwFqh1"
+    "apiKey": "key that you have at your algorithmia account"
 }
 ```
