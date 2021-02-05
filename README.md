@@ -1,9 +1,9 @@
 # robot-video-maker
 Bot that creates videos automatically
 
-##Credential format
+# Credential format
 
-# Algorithmia
+##Algorithmia
 
 File: `algorithmia.json`
 
